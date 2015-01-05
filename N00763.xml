@@ -118,14 +118,14 @@
    <text xml:lang="eng">
       <body>
          <div type="act">
-            <pb facs="tcp:000919_0000_0FACA30A68E65640"/>
-            <pb facs="tcp:000919_0001_0FACA30B3139D650"/>
+            <pb facs="unknown:000919_0000_0FACA30A68E65640"/>
+            <pb facs="unknown:000919_0001_0FACA30B3139D650"/>
             <head>Anno Regni Regis <hi>Gulielmi</hi> III. Duodecimo. <figure/> AT A Great and General Court or Aſſembly Of His Majeſties Province of the <hi>Maſſachuſetts Bay</hi> in <hi>New England,</hi> begun and held at <hi>Boſton</hi> upon <hi>Wedneſday</hi> the Thirty-firſt day of <hi>May</hi> 1699. and continued by ſeveral Prorogations unto <hi>Wedneſday</hi> the Thirteenth day of <hi>March</hi> following. In the Twelfth year of His Majeſties Reign.</head>
             <head type="sub">An Act for granting unto His Majeſty, A Tax upon Polls and Eſtates.</head>
             <p>
                <hi>WEE His Majeſties Loyal and Dutiful Subjects the Repre<g ref="char:EOLhyphen"/>ſentatives of His Majeſties Province of the</hi> Maſſachuſetts-Bay <hi>in</hi> New England, <hi>Convened in General Court or Aſſembly, having had before us the Accompts of the Treaſury, whereby we are ſenſible of the neceſſity of granting a further ſupply of Money: As well for the paying and diſcharging of the Debts already due and owing from the Province, as of the future growing Charge thereof: For procuring of Arms and Ammunition for the uſe of this Province; As alſo for the ſubſiſting and paying of Wages to Souldiers and Seamen, and Veſſels Hire, that have been, are or ſhall be imployed in His Ma<g ref="char:EOLhyphen"/>jesties Service within this Province; For the paying of ſuch Salaries and Al<g ref="char:EOLhyphen"/>lowances as have been or ſhall be made and granted by the General Court or Aſsembly: And all ſuch Allowances and Payments as are directed by any Act of this Province, to be made out of the Publick Treaſury; And for ſupport of the Government, and anſwering of the incident and contingent Charges in and about the ſame.</hi> Do unanimouſly Grant unto His moſt Excellent Majeſty, for the ends, uſes and intents before mentioned, and for ſuch other uſe and uſes as ſhall be limited by this Court and no other, A Tax of <hi>Three Thouſand</hi> and <hi>Seventy Nine Pounds, Ten Shillings</hi> in Money, to be Levied upon Polls and Eſtates, both real and Perſonal within the ſaid Province, as in and by this preſent Act for the manner and proportion thereof is directed and ſet forth.</p>
             <p>
-               <pb n="2" facs="tcp:000919_0002_0FACA30BEB713F10"/>
+               <pb n="2" facs="unknown:000919_0002_0FACA30BEB713F10"/>
                <hi>And be it Enacted by His Excellency the Governour, Council, and Repreſentatives in General Court Aſſembled, and by the Authority of the ſame.</hi> That the Treaſurer do forthwith iſſue out and ſend his War<g ref="char:EOLhyphen"/>rants directed to the Aſſeſſors, Select-men or Truſtees of each Reſpective Town and Precinct within this Province,<note place="margin">
                   <gap reason="illegible: page cropped" extent="1 paragraph">
                      <desc>〈1 paragraph〉</desc>
@@ -207,7 +207,7 @@
                      <cell>05</cell>
                      <cell>00</cell>
                   </row>
-                  <pb n="3" facs="tcp:000919_0003_0FACA30CA6F69C00"/>
+                  <pb n="3" facs="unknown:000919_0003_0FACA30CA6F69C00"/>
                   <row>
                      <cell>
                         <hi>Wrentham,</hi> Nine Pounds.</cell>
@@ -555,7 +555,7 @@
                   </row>
                </table>
                <table>
-                  <pb n="4" facs="tcp:000919_0004_0FACA30D65BFB628"/>
+                  <pb n="4" facs="unknown:000919_0004_0FACA30D65BFB628"/>
                   <head>In the County of PLYMOUTH.</head>
                   <row>
                      <cell>
@@ -785,7 +785,7 @@
             <p>
                <hi>And be it further Enacted by the Authority aforeſaid,</hi> That the Aſſeſſors of each of the Towns and Precincts aforeſaid, ſhall aſſeſs and apportion the Sum herein before ſet on ſuch Town, upon the Folls and Eſtates within the ſame, according to the Rules before mentioned to be contained in the Treaſurers Warrant for aſſeſſing the ſame. And if any perſon or perſons ſhall upon notice given by the Aſſeſſors refuſe or neglect to bring in unto them a Liſt of his or their Eſtates, ſuch perſon or perſons ſhall be aſſeſſed according to the ſound diſcretion and judgment of the ſaid Aſſeſſors.</p>
             <p>
-               <pb n="5" facs="tcp:000919_0005_0FACA30E2901F0A8"/>
+               <pb n="5" facs="unknown:000919_0005_0FACA30E2901F0A8"/>
                <hi>Provided,</hi> That nothing in this Act ſhall extend or be conſtrued to the Aſſeſſing of the Governour and Family, nor of the Praeſident, Fellow or Students of <hi>Harvard Colledge,</hi> Settled Miniſters, Grammar School Maſters, or of any that receive Alms. Who are hereby reſpectively Exempted as well from being taxed for the Poll as for their Eſtates being in their own hands, and under their actual management &amp; Improvement and their Income.</p>
             <p>
                <hi>And whereas by an Act made and paſſed at this preſent Seſſion,</hi> Entituled, <hi>An Act, Directing how Rates and Taxes to be granted by the General Aſsembly, ſhall be Aſeſ<g ref="char:EOLhyphen"/>ſed &amp; Collected: It is provided,</hi> That Aſſeſſors of Publick Rates and Taxes may be annually Elected by the Reſpective Towns at the time by Law appointed for the Choice of Town Officers. <hi>And whereas all or moſt of the Towns and Precincts within this Province have Choſe their Town Officers for the year enſuing, before the publica<gap reason="illegible: missing" extent="1 letter">
@@ -802,7 +802,7 @@
             </p>
             <p>
                <hi>It is hereby further Enacted,</hi> That the Treaſurer be &amp; is hereby impow<g ref="char:EOLhyphen"/>red and directed forthwith to iſſue out a Warrant to the ſaid <hi>Edward Gay,</hi> im<g ref="char:EOLhyphen"/>powring and requiring him to collect and gather in the ſaid Sum of <hi>Twenty Pounds</hi> aſſeſſed upon the Inhabitants of ſaid Town of <hi>Wrentham</hi> in the Year aforeſaid, and not hitherto collected according to each perſons proportion in the Liſt committed then to him by the Select-men of that Town, and to pay in the ſame into the Treaſurer, and iſſue the Accompts
-<pb n="6" facs="tcp:000919_0006_0FACA30EE73A57D8"/>
+<pb n="6" facs="unknown:000919_0006_0FACA30EE73A57D8"/>
 thereof with him, or his Succeſſor, on or before the laſt Day of <hi>June</hi> next. And the ſaid <hi>Edward Gay</hi> upon Receipt of the Treaſurers Warrant aforeſaid, is hereby impowred and required to collect and pay in the ſaid Sum accordingly.</p>
             <p>
                <hi>And be it further Enacted by the Authority aforeſaid,</hi> That the Treaſurer be, and is hereby impowred to iſſue forth a certain number of the Bills of Credit of the late Colony of the <hi>Maſſachuſetts,</hi> to the Sum of <hi>Two Thouſand Pounds</hi> and no more, towards the uſes for which this preſent Tax <gap reason="illegible: page cropped" extent="1 word">
